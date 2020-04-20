@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d3b5fcc-3720-455e-9479-8a62941a99b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-n之间1出现的次数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ALBB/0403_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ALBB/ALi0412.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ALBB/ALi_0412_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ALBB/ALi_0412_data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ALBB/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/DiDi_0827_项目分配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/FUTU0905.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/HW/HUAWEI_0403_01-02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/HW/HW0327_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/HW/HW0403_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/HW/HW0403_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/HW/HW0410_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/HW/HW0904_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/HW/HW0907_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/HW/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/JD0824/2017采购单.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/JD0824/2017集合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/JD0824/dz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/JD0824/hc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/JD0824/pd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/JD0824/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SF0829/.idea/SF0829.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SF0829/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SF0829/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SF0829/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SF0829/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SF0829/SF0829_学术交流.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SF0829/SF0829_最长子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SF0829/除法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/SXF/sxf0918.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/WZYH/wzyh0919.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/XiaoMi/xiaomi0911_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ZTE/killProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ZTE/xingyunzhe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ZTE/字符串列表按需输出0909.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/ZTE/舞蹈早晚课程0906.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/.idea/shopee0215.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam4Job/shopee0215/ttttt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/degree_sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zipTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/三角形相加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/不使用循环从1加到n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/不含重复字符的最长子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/丑数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/两点间距离.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二元一次方程的解.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/出栈顺序是否合理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/列表中偶下标降序排序奇下标不变.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/删除列表中的奇数项.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/判断数字位置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划_背包问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/包含min函数的栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/反转有符号的整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/和为S的连续正整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/因式分解.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/圆圈中剩下的数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复数相加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多项式的值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串转换整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/对输入字符进行Z形排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/扑克牌顺子.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/按行遍历BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/日期加一天.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/日期推算.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/最大连续子序列和——动态规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/最长公共前缀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/最长回文子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器人运动范围.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/构建乘积数组.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/构建乘积数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/正则表达式匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求一个数组中的所有组合值等于指定值的组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求两个有序数组的中位数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/盛最多的水.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/直角三角形和周长.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/矩阵中的路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/英文分割并排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/落球总路程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/链表相关/反转部分链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿拉伯数字转罗马数字.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Exercises$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1556290799677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML_10_algorithm$duplication.coverage" NAME="duplication Coverage Results" MODIFIED="1554041614766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$test0.coverage" NAME="test0 Coverage Results" MODIFIED="1554815162181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$ALi0412.coverage" NAME="ALi0412 Coverage Results" MODIFIED="1555138429474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$num_to_rmb.coverage" NAME="num_to_rmb Coverage Results" MODIFIED="1563179202406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/04/4.6" />
+    <SUITE FILE_PATH="coverage/Exercises$class_space.coverage" NAME="class_space Coverage Results" MODIFIED="1563343453779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/06/6.2" />
+    <SUITE FILE_PATH="coverage/Exercises$HW0403_02.coverage" NAME="HW0403_02 Coverage Results" MODIFIED="1554303575338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1563181473051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/04/4.6" />
+    <SUITE FILE_PATH="coverage/Exercises$supermarket.coverage" NAME="supermarket Coverage Results" MODIFIED="1563181702626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/04/4.6" />
+    <SUITE FILE_PATH="coverage/Exercises$HW0410_01.coverage" NAME="HW0410_01 Coverage Results" MODIFIED="1554908053351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$rotate.coverage" NAME="rotate Coverage Results" MODIFIED="1558533578788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$super_test.coverage" NAME="super_test Coverage Results" MODIFIED="1563348458373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/06/6.5" />
+    <SUITE FILE_PATH="coverage/Exercises$property_test2.coverage" NAME="property_test2 Coverage Results" MODIFIED="1563344614194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/06/6.3" />
+    <SUITE FILE_PATH="coverage/Exercises$test.coverage" NAME="test Coverage Results" MODIFIED="1558968307032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$.coverage" NAME="最长回文子串 Coverage Results" MODIFIED="1563196773114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$1_n1.coverage" NAME="1-n之间1出现的次数 Coverage Results" MODIFIED="1559396664521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$zipTest.coverage" NAME="zipTest Coverage Results" MODIFIED="1555377331589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML_10_algorithm$linearRegression_sklearn.coverage" NAME="linearRegression_sklearn Coverage Results" MODIFIED="1553588254031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML_10_algorithm$linearRegression.coverage" NAME="linearRegression Coverage Results" MODIFIED="1553675878021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$property_test.coverage" NAME="property_test Coverage Results" MODIFIED="1563344371255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/06/6.3" />
+    <SUITE FILE_PATH="coverage/Exercises$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1560694331299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$duplication.coverage" NAME="duplication Coverage Results" MODIFIED="1554086096675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$1n.coverage" NAME="不使用循环从1加到n Coverage Results" MODIFIED="1560152060137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1554296690298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$decorator_test.coverage" NAME="decorator_test Coverage Results" MODIFIED="1563335742976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/06/6.2" />
+    <SUITE FILE_PATH="coverage/ML_10_algorithm$regression.coverage" NAME="regression Coverage Results" MODIFIED="1553585556190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$lambda_in_space.coverage" NAME="lambda_in_space Coverage Results" MODIFIED="1563343501544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/06/6.2" />
+    <SUITE FILE_PATH="coverage/Exercises$class_static_method.coverage" NAME="class_static_method Coverage Results" MODIFIED="1563334767873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/06/6.2" />
+    <SUITE FILE_PATH="coverage/Exercises$degree_sub.coverage" NAME="degree_sub Coverage Results" MODIFIED="1559302524713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML_10_algorithm$HW0327_01.coverage" NAME="HW0327_01 Coverage Results" MODIFIED="1553698258773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$gobang.coverage" NAME="gobang Coverage Results" MODIFIED="1563181536883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/04/4.6" />
+    <SUITE FILE_PATH="coverage/Exercises$HW0403_01.coverage" NAME="HW0403_01 Coverage Results" MODIFIED="1554735197648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="0b13e8aa-3f26-45d0-bc09-62d46f819a65" value="Rose" />
+    </colors>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="0b13e8aa-3f26-45d0-bc09-62d46f819a65" />
+    </checked>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Eric" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1VEFBLZsaEv4uDxxWtkbhWlM3SX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python_work\ML_10_algorithm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python_work\Exercises\链表相关" />
+      <recent name="F:\python_work\Exercises\Exam4Job" />
+      <recent name="F:\python_work\Exercises\二叉树" />
+      <recent name="F:\python_work\Exercises\ALBB" />
+      <recent name="F:\python_work\Exercises\HW" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1-n之间1出现的次数">
+    <configuration name="1-n之间1出现的次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-n之间1出现的次数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2017集合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JD0824" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JD0824/2017集合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW0403_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW/HW0403_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW0907_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW/HW0907_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SF0829_学术交流" type="PythonConfigurationType" factoryName="Python">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SF0829" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SF0829/SF0829_学术交流.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="日期" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\python_work\ML_10_algorithm\日期加一天.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="二元一次方程的解" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二元一次方程的解.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="判断丑数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/判断丑数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="不含重复字符的最长子串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/不含重复字符的最长子串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="因式分解" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/因式分解.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="快速排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序算法/快速排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="二叉树子结构的判定" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二叉树子结构的判定.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="括号生成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/括号生成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="有效的括号对" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/有效的括号对.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最长公共前缀" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/最长公共前缀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JD0824" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JD0824/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1-n之间1出现的次数" />
+        <item itemvalue="Python.2017集合" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.HW0907_1" />
+        <item itemvalue="Python.HW0403_02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Eric Wang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3b5fcc-3720-455e-9479-8a62941a99b8" name="Default Changelist" comment="" />
+      <created>1553584377861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553584377861</updated>
+      <workItem from="1553584379499" duration="3947000" />
+      <workItem from="1553655101877" duration="918000" />
+      <workItem from="1553672111784" duration="4752000" />
+      <workItem from="1553692978366" duration="5656000" />
+      <workItem from="1553736698557" duration="2642000" />
+      <workItem from="1553955702254" duration="2396000" />
+      <workItem from="1554000170356" duration="6435000" />
+      <workItem from="1554082479444" duration="7932000" />
+      <workItem from="1554106208569" duration="2782000" />
+      <workItem from="1554168968013" duration="93000" />
+      <workItem from="1554287981023" duration="6021000" />
+      <workItem from="1554303453180" duration="159000" />
+      <workItem from="1554620250449" duration="5963000" />
+      <workItem from="1554626349954" duration="3070000" />
+      <workItem from="1554734544760" duration="919000" />
+      <workItem from="1554814986920" duration="2107000" />
+      <workItem from="1554859121845" duration="824000" />
+      <workItem from="1554898282475" duration="6658000" />
+      <workItem from="1555066264521" duration="7644000" />
+      <workItem from="1555122650493" duration="5453000" />
+      <workItem from="1555333477773" duration="6059000" />
+      <workItem from="1555375934593" duration="4503000" />
+      <workItem from="1555596784990" duration="885000" />
+      <workItem from="1555640634071" duration="2250000" />
+      <workItem from="1555939094572" duration="5946000" />
+      <workItem from="1556283085672" duration="1227000" />
+      <workItem from="1556284369035" duration="6276000" />
+      <workItem from="1556331045303" duration="3418000" />
+      <workItem from="1556504216913" duration="11335000" />
+      <workItem from="1556892972738" duration="1095000" />
+      <workItem from="1557365874967" duration="7675000" />
+      <workItem from="1557565734829" duration="314000" />
+      <workItem from="1557584263660" duration="1435000" />
+      <workItem from="1557645888290" duration="1118000" />
+      <workItem from="1557837682936" duration="1897000" />
+      <workItem from="1557932118576" duration="313000" />
+      <workItem from="1558525982385" duration="8583000" />
+      <workItem from="1558958041344" duration="4015000" />
+      <workItem from="1559049997717" duration="3675000" />
+      <workItem from="1559133489678" duration="4708000" />
+      <workItem from="1559287166780" duration="7236000" />
+      <workItem from="1559393319315" duration="6997000" />
+      <workItem from="1559456555470" duration="10095000" />
+      <workItem from="1559650546837" duration="2994000" />
+      <workItem from="1559999820273" duration="4466000" />
+      <workItem from="1560065769738" duration="3913000" />
+      <workItem from="1560135716841" duration="3207000" />
+      <workItem from="1560177845865" duration="1009000" />
+      <workItem from="1560308417534" duration="1299000" />
+      <workItem from="1560586920718" duration="912000" />
+      <workItem from="1560691338645" duration="4534000" />
+      <workItem from="1562478205285" duration="36000" />
+      <workItem from="1563112918356" duration="3129000" />
+      <workItem from="1563153002217" duration="8226000" />
+      <workItem from="1563195403746" duration="1664000" />
+      <workItem from="1563334297061" duration="8592000" />
+      <workItem from="1563354072269" duration="12680000" />
+      <workItem from="1563414840144" duration="12073000" />
+      <workItem from="1564043398514" duration="640000" />
+      <workItem from="1564105557076" duration="1810000" />
+      <workItem from="1564215379484" duration="1258000" />
+      <workItem from="1564234731759" duration="3717000" />
+      <workItem from="1564278441045" duration="1851000" />
+      <workItem from="1564366203405" duration="594000" />
+      <workItem from="1564383081327" duration="9393000" />
+      <workItem from="1564450170654" duration="3349000" />
+      <workItem from="1564454064671" duration="436000" />
+      <workItem from="1564454535440" duration="587000" />
+      <workItem from="1564455671037" duration="2136000" />
+      <workItem from="1564658910496" duration="7297000" />
+      <workItem from="1565160098686" duration="5988000" />
+      <workItem from="1565177715223" duration="358000" />
+      <workItem from="1565178543977" duration="689000" />
+      <workItem from="1565225393726" duration="2579000" />
+      <workItem from="1565422493315" duration="10007000" />
+      <workItem from="1565592384674" duration="3360000" />
+      <workItem from="1565610581703" duration="6139000" />
+      <workItem from="1565663714993" duration="1443000" />
+      <workItem from="1565697850032" duration="7189000" />
+      <workItem from="1566042884158" duration="4003000" />
+      <workItem from="1566177134324" duration="87000" />
+      <workItem from="1566628673156" duration="11363000" />
+      <workItem from="1566654606961" duration="850000" />
+      <workItem from="1566820532646" duration="660000" />
+      <workItem from="1566907884257" duration="1928000" />
+      <workItem from="1566909867215" duration="927000" />
+      <workItem from="1566916105486" duration="807000" />
+      <workItem from="1567679753718" duration="1707000" />
+      <workItem from="1567824511123" duration="19368000" />
+      <workItem from="1568009350415" duration="27643000" />
+      <workItem from="1568552883019" duration="9150000" />
+      <workItem from="1568730300606" duration="1316000" />
+      <workItem from="1568793414832" duration="5691000" />
+      <workItem from="1568879894640" duration="2431000" />
+      <workItem from="1569293725939" duration="3072000" />
+      <workItem from="1569507469920" duration="1448000" />
+      <workItem from="1570278248891" duration="4755000" />
+      <workItem from="1570283223522" duration="3436000" />
+      <workItem from="1570456571795" duration="3152000" />
+      <workItem from="1572617153568" duration="2511000" />
+      <workItem from="1572703414826" duration="2805000" />
+      <workItem from="1572767732792" duration="10407000" />
+      <workItem from="1573456854931" duration="675000" />
+      <workItem from="1576810221452" duration="1915000" />
+      <workItem from="1577363037577" duration="6547000" />
+      <workItem from="1577694132686" duration="253000" />
+      <workItem from="1585155227211" duration="1817000" />
+      <workItem from="1586865247668" duration="95000" />
+      <workItem from="1586865402897" duration="759000" />
+      <workItem from="1586866245418" duration="2553000" />
+      <workItem from="1587136741160" duration="1556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Exercises" />
+    </ignored-roots>
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="171" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586865617074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="398" y="171" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1586865617074" />
+    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1587136942403">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1587136942403" />
+    <state width="1218" height="162" key="GridCell.Tab.0.bottom" timestamp="1587138301163">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="977" height="171" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1024.819@1920.0.1024.819" timestamp="1585157681645" />
+    <state width="1218" height="162" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1587138301163" />
+    <state width="1218" height="162" key="GridCell.Tab.0.center" timestamp="1587138301163">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="977" height="171" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1024.819@1920.0.1024.819" timestamp="1585157681645" />
+    <state width="1218" height="162" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1587138301163" />
+    <state width="1218" height="162" key="GridCell.Tab.0.left" timestamp="1587138301163">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="977" height="171" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1024.819@1920.0.1024.819" timestamp="1585157681645" />
+    <state width="1218" height="162" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1587138301163" />
+    <state width="1218" height="162" key="GridCell.Tab.0.right" timestamp="1587138301163">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="977" height="171" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1024.819@1920.0.1024.819" timestamp="1585157681645" />
+    <state width="1218" height="162" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1587138301163" />
+    <state x="205" y="44" width="966" height="710" key="SettingsEditor" timestamp="1587138213134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="205" y="44" width="966" height="710" key="SettingsEditor/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1587138213134" />
+    <state x="2095" y="140" width="672" height="678" key="search.everywhere.popup" timestamp="1585155390829">
+      <screen x="1920" y="0" width="1024" height="819" />
+    </state>
+    <state x="2095" y="140" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1024.819@1920.0.1024.819" timestamp="1585155390829" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exercises$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1567825333117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_algorithm" />
+    <SUITE FILE_PATH="coverage/Exercises$392.coverage" NAME="392判断子序列 Coverage Results" MODIFIED="1568300253202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Exercises$HW0907_1.coverage" NAME="HW0907_1 Coverage Results" MODIFIED="1586867501767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
+    <SUITE FILE_PATH="coverage/Exercises$Tencent0817.coverage" NAME="Tencent0817 Coverage Results" MODIFIED="1566046588780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$sxf0918.coverage" NAME="sxf0918 Coverage Results" MODIFIED="1568799494021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SXF" />
+    <SUITE FILE_PATH="coverage/Exercises$167__.coverage" NAME="167两数之和(有序数组) Coverage Results" MODIFIED="1572705950152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Exercises$0906.coverage" NAME="舞蹈早晚课程0906 Coverage Results" MODIFIED="1568021340563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTE" />
+    <SUITE FILE_PATH="coverage/Exercises$0909.coverage" NAME="字符串列表按需输出0909 Coverage Results" MODIFIED="1568019474140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTE" />
+    <SUITE FILE_PATH="coverage/Exercises$xingyunzhe.coverage" NAME="xingyunzhe Coverage Results" MODIFIED="1568031861877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTE" />
+    <SUITE FILE_PATH="coverage/Exercises$interfaceTestPost.coverage" NAME="interfaceTestPost Coverage Results" MODIFIED="1570285527404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口开发" />
+    <SUITE FILE_PATH="coverage/Exercises$zipTest.coverage" NAME="zipTest Coverage Results" MODIFIED="1565177800034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$HW0403_01.coverage" NAME="HW0403_01 Coverage Results" MODIFIED="1586867365159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
+    <SUITE FILE_PATH="coverage/Exercises$1720.coverage" NAME="172阶乘后面0的个数 Coverage Results" MODIFIED="1572791277427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Exercises$HW0403_02.coverage" NAME="HW0403_02 Coverage Results" MODIFIED="1586867399640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
+    <SUITE FILE_PATH="coverage/Exercises$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1567843089182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序算法" />
+    <SUITE FILE_PATH="coverage/Exercises$property_test2.coverage" NAME="property_test2 Coverage Results" MODIFIED="1563355895562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../fkPython/06/6.3" />
+    <SUITE FILE_PATH="coverage/Exercises$dz.coverage" NAME="dz Coverage Results" MODIFIED="1566650352490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JD0824" />
+    <SUITE FILE_PATH="coverage/Exercises$2017.coverage" NAME="2017集合 Coverage Results" MODIFIED="1586867642037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JD0824" />
+    <SUITE FILE_PATH="coverage/Exercises$171.coverage" NAME="171表列序号 Coverage Results" MODIFIED="1572790049429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Exercises$.coverage" NAME="快速排序 Coverage Results" MODIFIED="1577367585760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序算法" />
+    <SUITE FILE_PATH="coverage/Exercises$cm.coverage" NAME="cm Coverage Results" MODIFIED="1566910725182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$Z.coverage" NAME="对输入字符进行Z形排列 Coverage Results" MODIFIED="1563370753651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$169.coverage" NAME="169求众数 Coverage Results" MODIFIED="1572789156857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Exercises$SF0829_.coverage" NAME="SF0829_学术交流 Coverage Results" MODIFIED="1568603422016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SF0829" />
+    <SUITE FILE_PATH="coverage/Exercises$58.coverage" NAME="58最后一个单词的长度 Coverage Results" MODIFIED="1572619628187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Exercises$xiaomi0911_1.coverage" NAME="xiaomi0911_1 Coverage Results" MODIFIED="1568216699324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XiaoMi" />
+    <SUITE FILE_PATH="coverage/Exercises$test.coverage" NAME="test Coverage Results" MODIFIED="1586867553761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JD0824" />
+    <SUITE FILE_PATH="coverage/Exercises$66.coverage" NAME="66加一 Coverage Results" MODIFIED="1572703846782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Exercises$python_robot.coverage" NAME="python_robot Coverage Results" MODIFIED="1565595032554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RobotFramework_Test/test_seleniumLib/web_test_python" />
+    <SUITE FILE_PATH="coverage/Exercises$killProcess.coverage" NAME="killProcess Coverage Results" MODIFIED="1568030594217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTE" />
+    <SUITE FILE_PATH="coverage/Exercises$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1585156338661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
+    <SUITE FILE_PATH="coverage/Exercises$1_n1.coverage" NAME="1-n之间1出现的次数 Coverage Results" MODIFIED="1587137861981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$kmp.coverage" NAME="kmp Coverage Results" MODIFIED="1568730965642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/经典算法" />
+    <SUITE FILE_PATH="coverage/Exercises$N.coverage" NAME="删除链表倒数第N个节点并返回头节点 Coverage Results" MODIFIED="1565426641366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/链表相关" />
+    <SUITE FILE_PATH="coverage/Exercises$FUTU0905.coverage" NAME="FUTU0905 Coverage Results" MODIFIED="1567685704288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$hc.coverage" NAME="hc Coverage Results" MODIFIED="1566908208151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JD0824" />
+    <SUITE FILE_PATH="coverage/Exercises$interfaceTest1.coverage" NAME="interfaceTest1 Coverage Results" MODIFIED="1570278809096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口开发" />
+    <SUITE FILE_PATH="coverage/Exercises$168Excel.coverage" NAME="168Excel表列名 Coverage Results" MODIFIED="1572772606306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+  </component>
+</project>
